@@ -179,7 +179,7 @@ dev = [
 [package.metadata]
 requires-dist = [
     { name = "more-itertools", specifier = ">=10.8.0" },
-    { name = "pytest", specifier = ">=9.0.0" },
+    { name = "pytest", specifier = ">=9.0.2" },
 ]
 
 [package.metadata.requires-dev]
